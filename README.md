@@ -42,8 +42,8 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![MOHANISH 1 1 (1) pdf_1_11zon (1)](https://user-images.githubusercontent.com/111619160/209507915-aa82887a-2fcd-49ae-8cf5-6510e9bebc7e.jpg)
 
-[MOHANISH 1.1 (1).pdf](https://github.com/Mohanish7777777/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/10301721/MOHANISH.1.1.1.pdf)
 
 
 ## RESULT
